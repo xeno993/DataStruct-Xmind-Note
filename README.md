@@ -1,15 +1,15 @@
 # DataStruct-Xmind-Note
 
-This is the Data Structure mind map written down for the post-graduate examination.  这是备考研究生考试时写下的【数据结构】思维导图  
+This is the Data Structure mind map written down for the post-graduate examination.  这是备考研究生考试时写下的【数据结构】思维导图  :blue_book:
 
 ```
 版本：1.4.2
 作者：kyrzy0416
 ```
 
-特点：适用于考研、期末考大部分题型
+:fire:特点：适用于考研、期末考大部分题型
 
-我参考了多本书籍，写下的做题套路，希望能帮助到你，如果有任何改进的地方可以提交issue
+:smiley_cat:我参考了多本书籍，写下的做题套路，希望能帮助到你，如果有任何改进的地方可以提交issue
 
 
 
